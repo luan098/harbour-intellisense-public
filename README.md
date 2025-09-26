@@ -79,9 +79,8 @@ I`ve chosen to use a lowercase pattern for reserved words in Harbour to align wi
 
 ## Contact
 
-If you find any bugs or have suggestions, feel free to reach out to me at:
-
-**Email**: [luan.nc@hotmail.com](mailto:luan.nc@hotmail.com)
+If you find any bugs or have suggestions, feel free to open a issue on the public repository:
+https://github.com/luan098/harbour-intellisense-public
 
 ---
 
